@@ -1,0 +1,9 @@
+= batp =
+
+Battery popup notifier for OpenBSD.
+
+== Installation Requirements ==
+
+A C-compiler (for example GCC) and Make is needed to build and install batp.
+Only supported platform is OpenBSD.
+
